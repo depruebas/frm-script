@@ -1,5 +1,5 @@
 # scripts-framework
-simple framework to run scripts on server  - # Updated 2024/08
+simple framework to run scripts on server  - **Updated 2024/08**
 
 Environment to execute scripts in php.
 
